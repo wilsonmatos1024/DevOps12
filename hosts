@@ -12,3 +12,4 @@ ff02::2 ip6-allrouters
 # WMATOS HOSTS CONFIGS:
 
 170.238.232.253 eng-services
+10.0.1.20 interno 
